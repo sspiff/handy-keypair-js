@@ -1,6 +1,6 @@
 {
   "name": "@sspiff/handy-keypair",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Facilitates the use of rotatable, cloud-stored key pairs",
   "main": "src/index.js",
   "files": [
